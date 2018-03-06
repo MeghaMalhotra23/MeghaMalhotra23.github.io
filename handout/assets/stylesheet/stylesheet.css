@@ -562,6 +562,7 @@ display: inline;
 .features{
     width: 100%;
     height: auto;
+    box-sizing: border-box;
     margin: 40px auto;
 }
 .features img{
